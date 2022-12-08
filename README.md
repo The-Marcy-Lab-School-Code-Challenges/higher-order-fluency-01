@@ -12,7 +12,7 @@
 
 1. Write a function that takes an array of numbers and returns a new array containing only the even numbers in the original array.
 ```js
-doubled([3, 15, 2, 18, 21, 26]); //returns [2, 18, 26]
+onlyEven([3, 15, 2, 18, 21, 26]); //returns [2, 18, 26]
 ```
 
 2. Write a function that takes an array of numbers and returns a new array with the original array elements doubled.
